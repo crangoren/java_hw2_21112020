@@ -123,32 +123,7 @@ public class Main {
         return  false;
     }
 
-//    public static void exerciseSeven() {
-//
-//        int[] changeArr = new int[4];
-//
-//        for (int i = 0; i < changeArr.length; i++) {
-//            changeArr[i] = ((int) (Math.random() * 6));
-//        }
-//
-//        System.out.println("Случайный массив задания 7 = " + Arrays.toString(changeArr));
-//
-//        int n = 3;
-//
-//        for (int i = 0; i < changeArr.length; i ++) {
-//            int ch = changeArr[i + n];
-//            changeArr[i + n] = changeArr[i];
-//            if (changeArr[i + n] > changeArr.length - 1) {
-//                changeArr[i] = changeArr[i + n] % changeArr.length - 1;
-//            } else {
-//                changeArr[i] = changeArr[i + n];
-//            }
-//
-//            //changeArr[i + n]
-//
-//        }
-//        System.out.println(Arrays.toString(changeArr));
-//    }
+
 
 }
 
